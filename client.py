@@ -4,7 +4,7 @@ import string
 from colorama import Fore, Style
 
 
-HOST = "localhost"
+HOST = "192.168.100.11"
 PORT = 9999
 
 
